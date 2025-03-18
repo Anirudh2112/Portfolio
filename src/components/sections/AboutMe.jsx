@@ -31,7 +31,7 @@ const AboutMe = () => {
             </div>
             <div className="flex items-center gap-2 text-gray-300">
               <FileText size={18} />
-              <a href="/Anirudh_Andhe_Resume.pdf" className="hover-effect">Download Resume</a>
+              <a href="/Anirudh_Andhe_Resume.pdf" className="hover-effect">View Resume</a>
             </div>
           </div>
         </div>
